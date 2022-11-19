@@ -4,7 +4,6 @@ h1{
 p{
     color: #990009;
 }
-body.h1 {
+body {
     background-color:  #202421;
-    color: #990009;
-}
+    }
