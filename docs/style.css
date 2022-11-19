@@ -7,7 +7,7 @@ nav{
     height: 100%;
     width: 100%;
 }
-nav.li{
+li{
     list-style: none;
 }
 /* Color #ACA2E5*/
