@@ -1,4 +1,4 @@
 var xhr = new XMLHttpRequest();
-xhr.open("GET", uriOfCachedPage, true);
+xhr.open("GET", urlOfCachedPage, true);
 xhr.setRequestHeader("Cache-Control", "max-age=0");
 xhr.send();
