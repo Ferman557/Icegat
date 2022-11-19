@@ -8,6 +8,7 @@ nav{
     width: 100%;
 }
 nav ul li{
+    display: inline;
     list-style: none;
 }
 /* Color #ACA2E5*/
