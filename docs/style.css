@@ -7,6 +7,9 @@ nav{
     height: 100%;
     width: 100%;
 }
+nav.li{
+    list-style: none;
+}
 /* Color #ACA2E5*/
 p{
     color: #ACA2E5;
