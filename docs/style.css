@@ -3,25 +3,39 @@ h1{
     text-align: center;
 }
 nav{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     background-color: #ac2828;
     height: 100%;
     width: 100%;
 }
 nav ul{
-    display: inline;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 nav ul li{
     display: inline;
     list-style: none;
 }
-/* Color #ACA2E5*/
+/* Color #ACA2E5 background: #384d50;*/
+.paragraph{
+    min-height: 20%;
+}
 p{
+    /*border: solid #ac2828
+    min-height: 210px;;
+    */
+    background: #384d50;
+    min-width: 20%;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 2px;
+    margin-left: 2%;
+   
     color: #EFEFEF;
 }
 body {
+    padding: 0%;
+    margin: 0%;
     font-family: 'Open Sans';
     background-color:  #111213;
 }
