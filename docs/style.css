@@ -5,6 +5,7 @@ h1{
 nav{
     display: flex;
     justify-content: space-between;
+    align-items: center;
     background-color: #ac2828;
     height: 100%;
     width: 100%;
