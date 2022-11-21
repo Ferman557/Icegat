@@ -3,6 +3,8 @@ h1{
     text-align: center;
 }
 nav{
+    display: flex;
+    justify-content: space-between;
     background-color: #ac2828;
     height: 100%;
     width: 100%;
